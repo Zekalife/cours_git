@@ -5,7 +5,7 @@ if(!empty($a)){
 	echo "\$a = $a";
 }
 
-$b = "Heelo world !";
+$b = "Hello world !";
 
 echo $b . " " . $a;
 
